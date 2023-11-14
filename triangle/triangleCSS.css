@@ -1,0 +1,125 @@
+
+#title {
+    font-size: 2vw;
+    position: absolute;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color: white;
+    left: 35%;
+    top: 5%;
+}
+
+#areaText {
+    position: absolute;
+    left: 17%;
+    top: 25%;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.8vw;
+    font-weight: bolder;
+
+}
+
+#sideOneText {
+    position: absolute;
+    left: 10%;
+    top: 34%;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1vw;
+    font-weight: bolder;
+}
+
+#sideTwoText {
+    position: absolute;
+    left: 10%;
+    top: 41%;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1vw;
+    font-weight: bolder;
+}
+
+#sideThreeText {
+    position: absolute;
+    left: 10%;
+    top: 48%;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1vw;
+    font-weight: bolder;
+}
+
+#sideOne {
+    position: absolute;
+    left: 15%;
+    top: 35%;
+    background-color: rgb(80, 80, 80);
+    border-color:rgb(255, 255, 255);
+    border-radius: 7px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.2vw;
+    font-weight: bolder;
+    width: 8vw;
+}
+
+#sideTwo {
+    position: absolute;
+    left: 15%;
+    top: 42%;
+    background-color: rgb(80, 80, 80);
+    border-color:rgb(255, 255, 255);
+    border-radius: 7px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.2vw;
+    font-weight: bolder;
+    width: 8vw;
+}
+
+#sideThree {
+    position: absolute;
+    left: 15%;
+    top: 49%;
+    background-color: rgb(80, 80, 80);
+    border-color:rgb(255, 255, 255);
+    border-radius: 7px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.2vw;
+    font-weight: bolder;
+    width: 8vw;
+}
+
+#calculateButton {
+    position: absolute;
+    left: 15%;
+    top: 59%;
+    background-color: rgb(80, 80, 80);
+    border-color:rgb(255, 255, 255);
+    border-radius: 7px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.2vw;
+    font-weight: bolder;
+}
+
+#heronsAnswer {
+    position: absolute;
+    left: 15%;
+    top: 61%;
+    background-color: rgb(80, 80, 80);
+    border-color:rgb(255, 255, 255);
+    border-radius: 7px;
+    padding: 3px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.2vw;
+    font-weight: bolder;
+}
+
+
+body {
+    background-color: black;
+}
