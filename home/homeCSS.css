@@ -1,0 +1,19 @@
+
+body {
+    background-color: black;
+}
+
+#triangleButton {
+    position: absolute;
+    left: 10%;
+    top: 30%;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(70, 70, 70);
+    border-color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

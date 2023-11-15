@@ -11,12 +11,16 @@
 
 #areaText {
     position: absolute;
-    left: 17%;
-    top: 25%;
+    left: 10%;
+    top: 22%;
     color: white;
     font-family:'Courier New', Courier, monospace;
-    font-size: 1.8vw;
+    font-size: 2.4vw;
     font-weight: bolder;
+    width: 25vw;
+    background-color: rgb(70, 70, 70);
+    border-radius: 10px;
+    text-align: center;
 
 }
 
@@ -92,6 +96,54 @@
     width: 8vw;
 }
 
+#baseText {
+    position: absolute;
+    left: 30%;
+    top: 34%;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1vw;
+    font-weight: bolder;
+}
+
+#heightText {
+    position: absolute;
+    left: 30%;
+    top: 41%;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1vw;
+    font-weight: bolder;
+}
+
+#base {
+    position: absolute;
+    left: 35%;
+    top: 35%;
+    background-color: rgb(80, 80, 80);
+    border-color:rgb(255, 255, 255);
+    border-radius: 7px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.2vw;
+    font-weight: bolder;
+    width: 8vw;
+}
+
+#height {
+    position: absolute;
+    left: 35%;
+    top: 42%;
+    background-color: rgb(80, 80, 80);
+    border-color:rgb(255, 255, 255);
+    border-radius: 7px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.2vw;
+    font-weight: bolder;
+    width: 8vw;
+}
+
 #calculateButton {
     position: absolute;
     left: 15%;
@@ -105,7 +157,20 @@
     font-weight: bolder;
 }
 
-#heronsAnswer {
+#halfbhCalculateButton {
+    position: absolute;
+    left: 35.2%;
+    top: 52%;
+    background-color: rgb(80, 80, 80);
+    border-color:rgb(255, 255, 255);
+    border-radius: 7px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.2vw;
+    font-weight: bolder;
+}
+
+#halfbhAnswer {
     position: absolute;
     left: 15%;
     top: 61%;
